@@ -8,5 +8,5 @@ If you are coding or gaming, just run the program in the background, It aims to 
 
 > [!IMPORTANT] > **Still in Development**
 
-> \*\*> [!IMPORTANT]
+> [!IMPORTANT]
 > This tool does not replace consultation with an opthalmologist.
