@@ -59,6 +59,7 @@ while True:
         else:
             if closed_frames >= frame_check:
                 blink_count += 1
+                # print(avg_ear)
             closed_frames = 0
 
         # Display EAR and blink count
